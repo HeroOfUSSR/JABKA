@@ -32,7 +32,7 @@ namespace JABKA
 
             Console.ReadKey();
 
-        }
+        } 
 
         private static void Sort(Person[] cycle )
         {
